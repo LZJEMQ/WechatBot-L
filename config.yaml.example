@@ -1,6 +1,6 @@
 chatGPTAccountPool:
-  - email: zunhuangfu@gmail.com
-    password: lz123321
+  - email: 
+    password: 
     isGoogleLogin: false
 chatPrivateTiggerKeyword: ""
 openAIProxy: ""
